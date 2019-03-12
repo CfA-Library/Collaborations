@@ -58,6 +58,7 @@ The following elements outline recommendations for repositories accepting Jupyte
 * Release of the full repository of files associated with .ipynb when applicable 
   * Recommend minting a software DOI for the code repository (Fenner et al., 2018)
   * Provide guidance on how to mint a software DOI (e.g. [assigning a software DOI via Zenodo](https://guides.github.com/activities/citable-code/))  
+
 #### Metadata Requirements:
 *Minimal submission: baseline description; enables user to view and cite the Notebook*
 * Jupyter Notebook title
@@ -139,7 +140,7 @@ The following decision trees illustrate questions and actions that should be con
 
 
 #### References
-Fenner, M., Katz, D. S., Nielsen, L. H., & Smith, A. (2018, May 17). DOI Registrations for Software. DataCite Blog. doi:[https://doi.org/10.5438/1nmy-9902](https://doi.org/10.5438/1nmy-9902)
+Fenner, M., Katz, D. S., Nielsen, L. H., & Smith, A. (2018, May 17). DOI Registrations for Software. DataCite Blog. [https://doi.org/10.5438/1nmy-9902](https://doi.org/10.5438/1nmy-9902)
 
 Grus, J. (2018, Aug. 24). I Don't Like Notebooks. JupyterCon. New York, NY. [https://conferences.oreilly.com/jupyter/jup-ny/public/schedule/detail/68282](https://conferences.oreilly.com/jupyter/jup-ny/public/schedule/detail/68282)
 
