@@ -117,15 +117,13 @@ Once a decision has been made to accept and curate Jupyter Notebook submissions 
 11. Are there any confidentiality/ethics concerns associated with the Notebook?
 
 ### Decision Trees
-(view online)
-
-The following decision trees illustrate questions and actions that should be considered when determining whether or not to accept a Jupyter Notebook submission into a particular repository, as well key questions curators should consider when evaluating Jupyter Notebook submissions. 
+The following decision trees illustrate questions and actions that should be considered when determining whether or not to accept a Jupyter Notebook submission into a particular repository, as well key questions curators should consider when evaluating Jupyter Notebook submissions. The decision trees can also be viewed [here](https://www.lucidchart.com/documents/view/4848c483-1267-499c-9172-3a2782abfaaf/0).
 
 #### Repository Suitability
-
+![Repository Suitability - example](https://raw.githubusercontent.com/CfA-Library/Collaborations/master/Jupyter_Primer_2019/images/example_flow_jupyer_Suitabilitiy.png)
 
 #### Curatorial Activities
-
+![Curatorial Activities - example](https://raw.githubusercontent.com/CfA-Library/Collaborations/master/Jupyter_Primer_2019/images/example_flow_jupyer_Curation.png)
 
 #### Additional Recommended Reading
 * [Software Deposit Guidance for Researchers](https://zenodo.org/record/1327310)
@@ -143,14 +141,8 @@ The following decision trees illustrate questions and actions that should be con
 #### References
 Fenner, M., Katz, D. S., Nielsen, L. H., & Smith, A. (2018, May 17). DOI Registrations for Software. DataCite Blog. doi:[https://doi.org/10.5438/1nmy-9902](https://doi.org/10.5438/1nmy-9902)
 
-Grus, Joel (2018, Aug. 24). I Don't Like Notebooks. JupyterCon. New York, NY. [https://conferences.oreilly.com/jupyter/jup-ny/public/schedule/detail/68282](https://conferences.oreilly.com/jupyter/jup-ny/public/schedule/detail/68282)
+Grus, J. (2018, Aug. 24). I Don't Like Notebooks. JupyterCon. New York, NY. [https://conferences.oreilly.com/jupyter/jup-ny/public/schedule/detail/68282](https://conferences.oreilly.com/jupyter/jup-ny/public/schedule/detail/68282)
 
 Jackson, M. (2018a). Software Deposit: How to deposit software (Version 1.0). Zenodo. [http://doi.org/10.5281/zenodo.1327327](http://doi.org/10.5281/zenodo.1327327)
 
 Jackson, M. (2018b). Software Deposit: What to deposit (Version 1.0). Zenodo. [http://doi.org/10.5281/zenodo.1327325](http://doi.org/10.5281/zenodo.1327325)
-
-
-
-
-
-
