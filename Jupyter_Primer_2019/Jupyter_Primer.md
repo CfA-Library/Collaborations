@@ -1,5 +1,5 @@
 # Jupyter Notebooks: A Primer for Curators
-Daina Bouquin, Sophie Hou, Matthew Benzing, Lee Wilson 
+[Daina Bouquin](https://orcid.org/0000-0003-2626-3688), [Sophie Hou](https://orcid.org/0000-0002-8087-1775), [Matthew Benzing](https://orcid.org/0000-0003-2449-8184), [Lee Wilson](https://orcid.org/0000-0003-2878-8349) 
 
 Last updated: March 12, 2019    
 
